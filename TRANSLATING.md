@@ -92,6 +92,6 @@ This task requires a more technical knowledge of the tool than the book. Hopeful
 
 Beware though that
 
- * you'll need to use more specific tools to manage localization po files (such as editing them with [poedit](https://poedit.net/)) and merging them. You might need to compile git in order to check your work.
+ * you'll need to use more specific tools to manage localization po files (such as editing them with [poedit](https://poedit.com/)) and merging them. You might need to compile git in order to check your work.
  * a basic knowledge of how translating applications works is required, which is significantly different from translating books.
  * the core Git project uses more stringent [procedures](https://github.com/git-l10n/git-po/blob/master/Documentation/SubmittingPatches) to accept contributions, be sure to abide by them.
